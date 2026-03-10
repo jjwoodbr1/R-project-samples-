@@ -1,0 +1,1 @@
+These are various projects I have completed for myself or for others over the years I've collected to demonstrate my abilities as a Data Analyst/Data Scientist and to showcase my abilities using the R programming language. 
